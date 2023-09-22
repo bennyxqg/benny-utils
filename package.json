@@ -1,0 +1,25 @@
+{
+  "name": "benny-utils",
+  "version": "1.0.0",
+  "author": "benny",
+  "description": "common toolkit",
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bennyxqg/benny-utils"
+  },
+  "license": "ISC",
+  "homepage": "https://bennyxu.com",
+  "bugs": "https://github.com/bennyxqg/benny-utils/issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
